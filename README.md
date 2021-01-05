@@ -35,21 +35,21 @@ Este app também possui uma versão publicada na loja do google play store e tam
     Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos ou colegas do trabalho mas se analisar os prints vai ver que possui recursos bem avançados. Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
   </p>
 
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4351.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4352.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4353.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4354.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4355.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4356.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4357.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4358.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4359.png" />
-  <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4360.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4351.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4352.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4353.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4354.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4355.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4356.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4357.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4358.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4359.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4360.png" />
 </div>
 
 ## 🖥 Technologies
 
-This project was developed in the [OmniStack Week of Rocketseat](https://www.youtube.com/rocketseat) over the course of a week using Node.js, ReactJS and React Native to create a complete application.
+Este projeto foi desenvolvido utilizando a tecnologia Outsystems com o reactive web apps e a experiência nativa em aplicativos tanto para android quanto para IOS.
 
 The project was developed with the following technologies:
 
