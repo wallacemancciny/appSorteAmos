@@ -4,7 +4,7 @@ Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos 
 Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
 
 <h1 align="center">
-    <img alt="SorteAmos" src="Prints projeto pronto/Screen Shot 2020-03-28 at 21.50.09.png" />
+    <img alt="SorteAmos" src="Print AppSorteAmos/IMG_4350.png" />
     <br>
     SorteAmos
 </h1>
