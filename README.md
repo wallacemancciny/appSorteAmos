@@ -31,7 +31,8 @@ Este app também possui uma versão publicada na loja do google play store e tam
 <div align="center">
 
   <p align="center">
-    Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos ou colegas do trabalho mas se analisar os prints vai ver que possui recursos bem avançados. Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
+    Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos ou colegas do trabalho mas se analisar os prints vai ver que possui recursos bem avançados. Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.</br>
+    Existem diversos recursos nesse app como "resetar sorteio", "parar sorteio durante", "adicionar dependentes vinculados aos seus responsáveis", "inserir e editar valores e datas dos sorteios" entre outros recursos. Qualquer pessoa pode criar qualquer quantidade de sorteio para si mesmo e não tem limitações. 
   </p>
 
   <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4351.png" />
