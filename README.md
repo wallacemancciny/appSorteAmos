@@ -4,7 +4,7 @@ Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos 
 Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
 
 <h1 align="center">
-    <img alt="SorteAmos" src="Print AppSorteAmos/IMG_4350.png" />
+    <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4350.png" />
     <br>
     SorteAmos
 </h1>
@@ -32,7 +32,7 @@ Este app também possui uma versão publicada na loja do google play store e tam
 <div align="center">
 
   <p align="center">
-    Be The Hero is a project to assist NGOs in the treatment of incidents that occur. NGOs can register their incidents on the web application and people can offer to help with the mobile application.
+    Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos ou colegas do trabalho mas se analisar os prints vai ver que possui recursos bem avançados. Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
   </p>
 
   <img alt="Be The Hero" width="400" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/heroes.png" />
