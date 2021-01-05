@@ -63,33 +63,31 @@ Este projeto foi desenvolvido utilizando a tecnologia Outsystems com o reactive 
 The project was developed with the following technologies:
 
 <details>
-  <summary>Backend</summary>
-
-- [Celebrate](https://github.com/arb/celebrate)
-- [Cors](https://www.npmjs.com/package/cors)
-- [Cross-Env](https://www.npmjs.com/package/cross-env)
-- [Express](https://www.npmjs.com/package/express)
-- [Jest](https://www.npmjs.com/package/jest)
-- [Knex](http://knexjs.org/)
-- [Node.js](https://nodejs.org/)
-- [sqlite3](https://www.npmjs.com/package/sqlite3)
-- [Supertest](https://www.npmjs.com/package/supertest)
-- [TS-Jest](https://www.npmjs.com/package/ts-jest)
-- [TS-Node](https://www.npmjs.com/package/ts-node)
-- [TS-Node-Dev](https://www.npmjs.com/package/ts-node-dev)
-
+  Integrations - REST
+    Data Relationships
+    Architecture
+    Bootstrap Data and Entities
+    Preparation and Server Actions
+    Replace Data
+    Style Sheets Order
+    Input Validations
+    Users, Roles and Groups
+    Screen Lifecycle
+    Built-in Widgets
+    Logic
+    Entities and Static Entites
+    Data Types
+    Debug
+    Session Variables
+    Site Properties
+    SQL Queries
+    Aggregates
+    Rich Widgets
+    Exceptions Handling
+    Web Blocks
 </details>
 
-<details>
-  <summary>Frontend</summary>
 
-- [Axios](https://www.npmjs.com/package/axios)
-- [React](https://pt-br.reactjs.org/)
-- [React-DOM](https://pt-br.reactjs.org/docs/react-dom.html)
-- [React Icons](https://react-icons.netlify.com/#/)
-- [React Router Dom](https://reacttraining.com/react-router/web/)
-
-</details>
 
 <details>
   <summary>Mobile</summary>
