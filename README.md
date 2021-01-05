@@ -85,20 +85,6 @@ The project was developed with the following technologies:
     -- Exceptions Handling
     -- Web Blocks
 
-<details>
-  <summary>Mobile</summary>
-
-- [Axios](https://www.npmjs.com/package/axios)
-- [Expo](https://expo.io/learn)
-- [Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)
-- [Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
-- [Intl](https://www.npmjs.com/package/intl)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [React Navigation](https://reactnavigation.org/)
-
-</details>
-
 ## 🚀 Getting started
 
 If you need to install go to https://play.google.com/store/apps/details?id=com.outsystemscloud.wallacemancciny.SorteAmos
