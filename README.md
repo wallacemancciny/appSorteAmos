@@ -45,6 +45,16 @@ Este app também possui uma versão publicada na loja do google play store e tam
   <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4358.png" />
   <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4359.png" />
   <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4360.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4361.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4362.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4363.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4364.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4365.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4366.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4367.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4368.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4369.png" />
+  <img alt="SorteAmos" width="300" src="Print AppSorteAmos/IMG_4370.png" />
 </div>
 
 ## 🖥 Technologies
