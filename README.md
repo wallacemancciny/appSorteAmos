@@ -1,2 +1,2 @@
 # appSorteAmos
-App de gestão de sorteios, com esse app você consegue instalar no android e utilizar também na versão PWA para rodar através de outros sistemas operacionais como IOS.
+App SorteAmos para sortear o Amigo Oculto de sua familia, amigos ou colegas do trabalho, app gerado para rodar no android e utilizar também na versão PWA para rodar através da web.
