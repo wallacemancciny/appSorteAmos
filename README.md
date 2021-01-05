@@ -23,7 +23,6 @@ Este app também possui uma versão publicada na loja do google play store e tam
 <p align="center">
   <a href="#ℹ-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -106,23 +105,12 @@ The project was developed with the following technologies:
 
 </details>
 
-## 👁 Preview
-
-<div align="center">
-
-The web application is responsible for the registration of the NGO and the registration of incidents.
-
-  <img src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/animacao-criando-incident.gif" />
-</div>
-
-<div align="center">
-
-The mobile app is where the <b>hero</b> selects the incident he wants to help. Available for Android and iOS.
-
-  <img width="254" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/listando-incidentes-no-iphone.gif" />
-</div>
-
 ## 🚀 Getting started
+
+If you need to install go to https://play.google.com/store/apps/details?id=com.outsystemscloud.wallacemancciny.SorteAmos
+Or open it in https://wallacemancciny.outsystemscloud.com/SorteAmos/Home
+
+But if you need to use in Outsystems Plataform fallow the instructions bellow. 
 
 First of all, you need to download and install the latest Service Estudio at the official address of the company Outsystems -> https://www.outsystems.com/downloads/
 
