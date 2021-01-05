@@ -1,7 +1,5 @@
 # AppSorteAmos - Aplicativo para Sorteios em Grupo
-App SorteAmos é um app desenvolvido utilizando a tecnologia Outsystems utilizando o reactive web apps e a experiência nativa em aplicativos tanto para android quanto para IOS.
-Este parece ser um app simples para sortear Amigo Oculto de sua familia, amigos ou colegas do trabalho mas se analisar os prints vai ver que possui recursos bem avançados.
-Este app também possui uma versão publicada na loja do google play store e também uma versão PWA para rodar com a melhor experiência nos web browsers.
+Aplicativo nativo para grupos poderem efetuar sorteios como amigo oculto de natal por exemplo. Existem diversos recursos nesse app como "resetar amigo sorteado", "parar sorteio durante o sorteio", "adicionar dependentes vinculados aos seus responsáveis", ou seja, se você possui uma criança bem pequena que não usa telefone ou até mesmo um ente querido de idade, essa pessoa poderá ser inserida como seu dependente e você vai poder sortear por ela. "inserir e editar valores e datas dos sorteios", "Publicar o presente que deseja ganhar", ou seja, somente o amigo que você tirou poderá ver o que você gostaria de ganhar. Qualquer pessoa pode criar qualquer quantidade de sorteio para si mesmo e não tem limitações nem publicidade. Totalmente gratuito.
 
 <h1 align="center">
     <img alt="SorteAmos" width="500" src="Print AppSorteAmos/IMG_4350.png" />
