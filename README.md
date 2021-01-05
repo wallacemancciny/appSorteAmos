@@ -10,7 +10,7 @@ Este app também possui uma versão publicada na loja do google play store e tam
 </h1>
 
 <h3 align="center">
-  Be the hero of an NGO and help with a incident.
+  App para sortear amigo oculto
 </h3>
 
 
@@ -105,33 +105,15 @@ The mobile app is where the <b>hero</b> selects the incident he wants to help. A
 
 ## 🚀 Getting started
 
-First of all you need to have `node` and `yarn`(or `npm`) installed on your machine.
+First of all, you need to download and install the latest Service Estudio at the official address of the company Outsystems -> https://www.outsystems.com/downloads/
 
-_If you decide to use npm don't forget to delete yarn.lock in folders_
+  After that, you can clone this repository with the following command below:
 
-Then you can clone the repository.
+git clone git@github.com:wallacemancciny/appSorteAmos.git
 
-`git clone https://github.com/wallacemancciny/be-the-hero.git`
+After downloading the repository to your machine, with the service studio open, upload the file with the extension ".oap" and publish the project.
 
-First start the application backend.
-
-1. `cd backend`
-2. `yarn` or `npm install`
-3. `yarn start` or `npm start`
-
-Now starting the web application.
-
-1. `cd frontend`
-2. `yarn` or `npm install`
-3. `yarn start` or `npm start`
-
-Starting the application with Expo.
-
-1. `cd mobile`
-2. `yarn` or `npm install`
-3. `yarn start` or `npm start`
-4. Press on `Run on Android device/emulator` or `Run on iOS simulator`
-5. Another option is to install Expo on your phone and scan the QRCode.
+There, from now on the system will gain a unique address to be viewed and handled in your browser.
 
 ---
 
