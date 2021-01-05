@@ -62,12 +62,10 @@ Este projeto foi desenvolvido utilizando a tecnologia Outsystems com o reactive 
 
 The project was developed with the following technologies:
 
-    -- Integrations - REST
     -- Data Relationships
     -- Architecture
     -- Bootstrap Data and Entities
     -- Preparation and Server Actions
-    -- Replace Data
     -- Style Sheets Order
     -- Input Validations
     -- Users, Roles and Groups
